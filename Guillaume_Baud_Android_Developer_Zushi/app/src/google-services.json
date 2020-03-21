@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "994518148747",
+    "firebase_url": "https://guillaumebaudzushi.firebaseio.com",
+    "project_id": "guillaumebaudzushi",
+    "storage_bucket": "guillaumebaudzushi.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:994518148747:android:84d3b30d87a312dd0f968e",
+        "android_client_info": {
+          "package_name": "com.example.guillaume_baud_android_developer_zushi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "994518148747-mj7kvacncb5ef9qgolu83s75vm19i117.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.guillaume_baud_android_developer_zushi",
+            "certificate_hash": "f5186c01078fb96a1bf566b6902c8c738ac227e3"
+          }
+        },
+        {
+          "client_id": "994518148747-dvb6mfqst2rrib8oft2vhd96r7mu6qq0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBOrmCoP35kxQ3IJe8HFudr8WY4QeXbO5Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "994518148747-dvb6mfqst2rrib8oft2vhd96r7mu6qq0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
